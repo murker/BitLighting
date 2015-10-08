@@ -1,5 +1,7 @@
 /**
 * Demonstration code from CSC 340
+* Note: I did not write this code.  Prof Sosnick at SFSU wrote this for demonstration 
+* and comparing purposes.
 */
 #include <iostream>
 using namespace std;
