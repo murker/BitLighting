@@ -10,4 +10,4 @@ edit from remote repo
 AFTER
 edited from computer, edit from remote repo, fixed merge conflict
 
-edit from computer 
+edit from computer 10/12/15
